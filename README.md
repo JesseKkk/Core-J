@@ -1,2 +1,1 @@
-# Core-Java
-This is a source code
+# Java version "1.8.0_211"
